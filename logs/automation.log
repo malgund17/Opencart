@@ -110,3 +110,4 @@
 11:36:13.677 [main] INFO  testCases.Tc_001_RegisterAccount - ***Finished Tc_001_RegisterAccount***
 11:36:17.625 [main] INFO  testCases.TC_002_Login - ******Starting TC_002_Login ******
 11:36:18.665 [main] INFO  testCases.TC_002_Login - Finished TC_002_Login
+22:11:59.737 [main] INFO  testCases.TC_002_Login - ******Starting TC_002_Login ******
